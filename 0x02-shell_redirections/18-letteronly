@@ -1,0 +1,2 @@
+#!/bin/bashs
+#grep _1"^[a-z]" /etc/ssh/shell_config
